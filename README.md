@@ -2,12 +2,15 @@
 
 A blockchain-based Anti-Money Laundering (AML) monitoring MVP. Transactions are scored by a rule-based risk engine, the results are written to a Solidity smart contract on a local Hardhat chain, and a React dashboard lets a compliance officer review alerts, manage a watchlist and freeze accounts.
 
-<!-- Add screenshots here after uploading them to the repo, for example:
-![Dashboard](screenshots/dashboard.png)
-![Transactions](screenshots/transactions.png)
-![Alerts](screenshots/alerts.png)
-![Network map](screenshots/network.png)
--->
+   ## Screenshots
+
+   ![Dashboard](screenshots/dashboard.png)
+
+   ![Transactions](screenshots/transactions.png)
+
+   ![Alerts](screenshots/alerts.png)
+
+   ![Network map](screenshots/network.png)
 
 ## Features
 
